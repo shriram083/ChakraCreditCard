@@ -1,3 +1,6 @@
+### Credit Card UI using Chakra
+![name-of-you-image](https://github.com/shriram083/ChakraCreditCard/blob/master/public/chakra_credit_card.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
